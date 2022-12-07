@@ -8,7 +8,7 @@
 // original code from https://qiita.com/Mitsu-Murakita/items/b86ad79d3590adb3b5b9
 //
 // TELLOのSSID
-const char* TELLO_SSID = "TELLO-EE817F";  // 自分のTelloのWi-Fi SSIDを入力
+const char* TELLO_SSID = "TELLO-xxxxxx";  // 自分のTelloのWi-Fi SSIDを入力
 // TELLOのIP
 const char* TELLO_IP = "192.168.10.1";
 // TELLO_PORT
